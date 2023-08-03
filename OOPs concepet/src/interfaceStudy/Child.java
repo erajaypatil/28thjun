@@ -38,6 +38,12 @@ public  class Child implements Father,Mother {
 		System.out.println("This is mother sweet method");
 	}
 	
+	public void TC1()
+	{
+		
+		System.out.println("TC1 is running method");
+	}
+	
 	
 	
 	
